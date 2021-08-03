@@ -1,6 +1,6 @@
 # Hcaptchasolver
 
-An extension for the [hcaptcha-solver-go](pornhub.com) package I made,
+An extension for the [hcaptcha-solver-go](https://pornhub.com) package I made,
 allowing services that use other languages to use the solver.
 It uses Fiber to run an HTTP server on port 80, 
 and then handles captcha solving requests.
